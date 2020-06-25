@@ -10,6 +10,7 @@ To our knowledge, this is the first well-organized multi-site data for public us
 
 (1) Imaging Protols Summary for Six Sites
 
-![](./protocols.png)
+<center><img src="protocol.png" class="centerImage" width="200"/></center>
+
 
 ### Acknowledgements
