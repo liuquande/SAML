@@ -14,7 +14,7 @@ To our knowledge, this is the first well-organized multi-site data for public us
 
 * Samples of Site A,B are from NCI-ISBI 2013 dataset [1].
 * Samples of Site C are from Initiative  for  Collaborative  Computer  Vision  Benchmarking (I2CVB) dataset [2].
-* Samples of Site D,E,F are from Prostate MR Image Segmentation 2012 (PROMISE12) dataset [3].
+* Samples of Site D,E,F are from ![Prostate MR Image Segmentation 2012 (PROMISE12)](https://promise12.grand-challenge.org/) dataset [3].
 
 (2) Preprocessing steps
 ### Acknowledgements
