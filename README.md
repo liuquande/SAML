@@ -24,6 +24,6 @@ Among these data:
 ### Acknowledgements
 
 ### Reference
-\[1\] Bloch, N., Madabhushi, A., Huisman, H., Freymann, J., Kirby, J., et al.: NCI-ISBI 2013 Challenge: Automated Segmentation of Prostate Structures. (2015)
-<br> \[2\] Lemaitre, G., Marti, R., Freixenet, J., Vilanova. J. C., Walker, P. M., Meriaudeau, F.: Computer-Aided Detection and diagnosis for prostate cancer based on mono and multi-parametric MRI: A review. In: CBM, vol. 60, pp. 8-31 (2015)
-<br> \[3\] Litjens, G., Toth, R., Ven, W., Hoeks, C., Kerkstra, S., et al.: Evaluation of prostate segmentation algorithms for mri: The promise12 challenge. In: MIA, vol. 18, pp. 359-373 (2014)
+\[1\] Bloch, N., Madabhushi, A., Huisman, H., Freymann, J., et al.: NCI-ISBI 2013 Challenge: Automated Segmentation of Prostate Structures. (2015)
+<br> \[2\] Lemaitre, G., Marti, R., Freixenet, J., Vilanova. J. C., et al.: Computer-Aided Detection and diagnosis for prostate cancer based on mono and multi-parametric MRI: A review. In: CBM, vol. 60, pp. 8-31 (2015)
+<br> \[3\] Litjens, G., Toth, R., Ven, W., Hoeks, C., et al.: Evaluation of prostate segmentation algorithms for mri: The promise12 challenge. In: MIA, vol. 18, pp. 359-373 (2014)
