@@ -8,7 +8,7 @@ The Tensorflow implementation for our MICCAI 2020 paper '[Shape-aware Meta-learn
 ### Multi-site Data for Prostate MRI Segmentation
 To our knowledge, this is the first well-organized multi-site data for public use. The potential research field can cover [Domain Generalization](https://github.com/liuquande/SAML), [Multi-site Learning](https://arxiv.org/abs/2002.03366) and [Life-long Learning](https://arxiv.org/abs/1805.10170), etc.
 
-(1) Details of the six different sites from public datasets.
+(1) Data and Imaging Protocol Details of the Six Different Sites.
 
 <center><img src="protocol.png" class="centerImage" width="700"/></center>
 
@@ -16,6 +16,7 @@ To our knowledge, this is the first well-organized multi-site data for public us
 * Samples of Site C are from I2CVB dataset [2].
 * Samples of Site D,E,F are from PROMISE12 dataset [3].
 
+(2) Preprocessing steps
 ### Acknowledgements
 
 ### Reference
