@@ -6,7 +6,7 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
 The Tensorflow implementation for our MICCAI 2020 paper '[Shape-aware Meta-learning for Generalizing Prostate MRI Segmentation to Unseen Domains](https://github.com/liuquande/SAML)'. 
 
 ### Multi-site Data for Prostate MRI Segmentation
-The well-organized multi-site data for public use, which is contrusted from public datasets of prostate MRI segmentation. The potential research field can cover [Domain Generalization](https://github.com/liuquande/SAML), [Multi-site Learning](https://arxiv.org/abs/2002.03366) and [Life-long Learning](https://arxiv.org/abs/1805.10170), etc.
+The well-organized multi-site data for public use, which is contrusted from three public datasets of prostate MRI segmentation. The potential research field can cover [Domain Generalization](https://github.com/liuquande/SAML), [Multi-site Learning](https://arxiv.org/abs/2002.03366) and [Life-long Learning](https://arxiv.org/abs/1805.10170), etc.
 
 #### (1) Details of data and imaging protocols of the six different sites included in the organized dataset.
 
