@@ -19,7 +19,7 @@ Among these data:
 
 #### (2) Preprocessing steps
 
-<br> We frist convert the data from different sites uniformly to '.nii' format. For preprocessing, we first center-cropped the images from Site C with roughly same view as images from other sites, since the raw images of Site C are scanned from whole body rather than prostate surrounding area. We then resized all samples of six sites with size of 384x384 in axial plane.
+<br> We frist convert data from all six sites uniformly to '.nii' format. For preprocessing, we first center-cropped the images from Site C with roughly same view  in axial plane as images from other sites, since the raw images of Site C are scanned from whole body rather than prostate surrounding area. We then resized all samples of six sites with size of 384x384 in axial plane.
 
 ### Acknowledgements
 
