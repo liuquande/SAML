@@ -18,6 +18,7 @@ Among these data:
 * Samples of Site D,E,F are from [Prostate MR Image Segmentation 2012](https://promise12.grand-challenge.org/) (PROMISE12) dataset [3].
 
 #### (2) Preprocessing steps
+
 <br> We frist convert the data from different sites uniformly to '.nii' format. For preprocessing, we first center-cropped the images from Site C with roughly same view as images from other sites, since the raw images of Site C are scanned from whole body rather than prostate surrounding area. We then resized all samples of six sites with size of 384x384 in axial plane.
 
 ### Acknowledgements
