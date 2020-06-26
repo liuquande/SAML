@@ -1,4 +1,4 @@
-# Shape-aware Meta-learning for Generalizing Prostate MRI Segmentation to Unseen Domains
+# SAML & Multi-site Data for Prostate MRI Segmentation
 by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/), [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/). 
 
 ### Introduction
