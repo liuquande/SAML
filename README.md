@@ -26,9 +26,7 @@ SimpleITK==1.2.0
    python main.py --phase=train
    ```
 
-2. Evaluate the model:
-
-    Run:
+2. Evaluate the model, run:
    ```shell
    python main.py --phase=test --restore_model='xxxx'
    ```
