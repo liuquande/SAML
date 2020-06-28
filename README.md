@@ -1,4 +1,4 @@
-# SAML & Multi-site Data for Prostate MRI Segmentation
+# SAML & A Multi-site Dataset for Prostate MRI Segmentation
 by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/), [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/). 
 
 ### Introduction
