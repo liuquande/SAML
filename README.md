@@ -19,9 +19,14 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
 
 ### Setup & Usage for the Code
 
-1. Check dependencies in requirements.txt, and necessarily run:
+1. Check dependencies:
    ```shell
-   pip install -r requirements.txt
+   python==2.7.17
+   numpy==1.16.6
+   scipy==1.2.1
+   tensorflow-gpu==1.12.0
+   tensorboard==1.12.2
+   SimpleITK==1.2.0
    ```
 2. To train the model, you need to specify the training configurations (can simply use the default setting) in main.py, then run:
    ```shell
