@@ -19,14 +19,16 @@ SimpleITK==1.2.0
 ```
 ### Usage
 
-1. Train the model:
-  First, you need to specify the training configurations (can simply use the default setting) in main.py.
-  Then run:
+1. Check dependencies in requirements.txt, and necessarily run:
+   ```shell
+   pip install -r requirements.txt
+   ```
+2. To train the model, you need to specify the training configurations (can simply use the default setting) in main.py, then run:
    ```shell
    python main.py --phase=train
    ```
 
-2. Evaluate the model, run:
+2. To evaluate the model, run:
    ```shell
    python main.py --phase=test --restore_model='xxxx'
    ```
