@@ -39,10 +39,10 @@ If the code or dataset is useful for your research, please consider citing:
 
 ```
 @inproceedings{liu2020saml,
-		title={Shape-aware Meta-learning for Generalizing Prostate MRI Segmentation to Unseen Domains},
-		author={Liu, Quande and Dou, Qi and Heng, Pheng Ann},
-		booktitle={International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)},
-		year={2020}}
+	title={Shape-aware Meta-learning for Generalizing Prostate MRI Segmentation to Unseen Domains},
+	author={Liu, Quande and Dou, Qi and Heng, Pheng Ann},
+	booktitle={International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)},
+	year={2020}}
 ```
 
 #### Questions
