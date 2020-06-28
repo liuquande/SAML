@@ -7,8 +7,9 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
 ![](figures/overview.png)
 
 * A well-organized multi-site dataset (from six data sources) for prostate MRI segmentation, that can support research in various problem settings with need of multi-site data, such as [Domain Generalization](https://github.com/amber0309/Domain-generalization), [Multi-site Learning](https://arxiv.org/abs/2002.03366) and [Life-long Learning](https://arxiv.org/abs/1805.10170), etc. 
+
 <p align="center">
-  <center><img src="protocol.png"  width="700"/></center>
+  <img src="protocol.png"  width="700"/>
 </p>
 
 
