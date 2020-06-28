@@ -17,7 +17,7 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
   
 
 
-#### Setup & Usage for the Code
+### Setup & Usage for the Code
 
 1. Check dependencies in requirements.txt, and necessarily run:
    ```shell
@@ -34,7 +34,7 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
    ```
    You will see the output results in the folder `./output/`.
 
-#### Citation
+### Citation
 If the code or dataset is useful for your research, please consider citing:
 
 ```
@@ -45,6 +45,6 @@ If the code or dataset is useful for your research, please consider citing:
 	year={2020}}
 ```
 
-#### Questions
+### Questions
 
 For further question about the code or dataset, please contact 'qdliu@cse.cuhk.edu.hk'
