@@ -29,13 +29,9 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
    ```
    You will see the output results in the folder `./output/`.
 
+### The Multi-site Dataset for Prostate MRI Segmentation
+For more details and the downloading link of the orgarized dataset, please [find here](https://liuquande.github.io/SAML/).
+
 ### Questions
 
 For further question about the code or dataset, please contact 'qdliu@cse.cuhk.edu.hk'
-### The Multi-site Dataset for Prostate MRI Segmentation
-For more details and the downloading link of the orgarized dataset, please [find here](https://liuquande.github.io/SAML/).
-### Reference
-\[1\] Bloch, N., Madabhushi, A., Huisman, H., Freymann, J., et al.: NCI-ISBI 2013 Challenge: Automated Segmentation of Prostate Structures. (2015)
-<br> \[2\] Lemaitre, G., Marti, R., Freixenet, J., Vilanova. J. C., et al.: Computer-Aided Detection and diagnosis for prostate cancer based on mono and multi-parametric MRI: A review. In: Computers in Biology and Medicine, vol. 60, pp. 8-31 (2015)
-<br> \[3\] Litjens, G., Toth, R., Ven, W., Hoeks, C., et al.: Evaluation of prostate segmentation algorithms for mri: The promise12 challenge. In: Medical Image Analysis.
-, vol. 18, pp. 359-373 (2014)
