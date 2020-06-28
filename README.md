@@ -20,24 +20,13 @@ The Tensorflow implementation for our MICCAI 2020 paper '[Shape-aware Meta-learn
 
 2. To evaluate the model, run:
    ```shell
-   python main.py --phase=test --restore_model='xxxx'
+   python main.py --phase=test --restore_model='/path/to/test_model.cpkt'
    ```
    You will see the output results in the folder `./output/`.
 
-### Citation
-If this repository is useful for your research, please cite:
-
-```
-@inproceedings{liu2020msnet,
-    author = {Quande Liu and Qi Dou and Lequan Yu and Pheng Ann Heng},
-    title = {MS-Net: Multi-Site Network for Improving Prostate Segmentation with Heterogeneous MRI Data},
-    booktitle = {IEEE Transactions on Medical Imaging},
-    year = {2020},
-}
-```
 ### Questions
 
-Please contact 'qdliu@cse.cuhk.edu.hk'
+For further question about the code or dataset, please contact 'qdliu@cse.cuhk.edu.hk'
 ### A Multi-site Dataset for Prostate MRI Segmentation
 The well-organized multi-site data for public use, contrusted from three public datasets of prostate MRI segmentation. The potential research field can cover [Domain Generalization](https://github.com/liuquande/SAML), [Multi-site Learning](https://arxiv.org/abs/2002.03366) and [Life-long Learning](https://arxiv.org/abs/1805.10170), etc.
 
