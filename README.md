@@ -13,7 +13,7 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
     
 
 <p align="center">
-  <img src="protocol.png"  width="700"/>
+  <img src="protocol.png"  width="600"/>
 </p>
   
 
