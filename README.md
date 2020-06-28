@@ -12,10 +12,8 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
   <img src="protocol.png"  width="700"/>
 </p>
 
-<p align="center">
   
-For more details and downloading link of the orgarized dataset, please [find here](https://liuquande.github.io/SAML/).
-</p>
+For **more details and downloading link** of the orgarized dataset, please [find here](https://liuquande.github.io/SAML/).
 
 #### Setup & Usage for the Code
 
