@@ -8,7 +8,7 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
 
 * A well-organized multi-site dataset (from six data sources) for prostate MRI segmentation, that can support research in various problem settings with need of multi-site data, such as [Domain Generalization](https://github.com/amber0309/Domain-generalization), [Multi-site Learning](https://arxiv.org/abs/2002.03366) and [Life-long Learning](https://arxiv.org/abs/1805.10170), etc. 
 
-<center><img src="protocol.png" class="centerImage" width="700"/></center>
+<center><img src="protocol.png"  width="700"/></center>
 
 Among these data:
 * Samples of Site A,B are from [NCI-ISBI 2013](https://wiki.cancerimagingarchive.net/display/Public/NCI-ISBI+2013+Challenge+-+Automated+Segmentation+of+Prostate+Structures) dataset [1].
