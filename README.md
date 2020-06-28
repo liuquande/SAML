@@ -34,9 +34,6 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
    ```
    You will see the output results in the folder `./output/`.
 
-#### The Multi-site Dataset
-* For more details and the downloading link of the orgarized dataset, please [find here](https://liuquande.github.io/SAML/).
-
 ### Questions
 
 For further question about the code or dataset, please contact 'qdliu@cse.cuhk.edu.hk'
