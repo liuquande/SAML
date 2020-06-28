@@ -7,17 +7,7 @@ The Tensorflow implementation for our MICCAI 2020 paper '[Shape-aware Meta-learn
 
 ![](assets/overview.png)
 
-### Prerequisites
-
-```
-python==2.7.17
-numpy==1.16.6
-scipy==1.2.1
-tensorflow-gpu==1.12.0
-tensorboard==1.12.2
-SimpleITK==1.2.0
-```
-### Usage
+### Setup & Usage
 
 1. Check dependencies in requirements.txt, and necessarily run:
    ```shell
