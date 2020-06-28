@@ -13,7 +13,9 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
 </p>
 
 <p align="center">
+  
 For more details and downloading link of the orgarized dataset, please [find here](https://liuquande.github.io/SAML/).
+
 </p>
 
 #### Setup & Usage for the Code
