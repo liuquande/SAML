@@ -30,7 +30,7 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
    You will see the output results in the folder `./output/`.
 
 #### The Multi-site Dataset for Prostate MRI Segmentation
-For more details and the downloading link of the orgarized dataset, please [find here](https://liuquande.github.io/SAML/).
+* For more details and the downloading link of the orgarized dataset, please [find here](https://liuquande.github.io/SAML/).
 
 ### Questions
 
