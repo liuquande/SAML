@@ -12,7 +12,7 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
   <img src="protocol.png"  width="700"/>
 </p>
 
-### Setup & Usage for the code
+#### Setup & Usage for the code
 
 1. Check dependencies in requirements.txt, and necessarily run:
    ```shell
@@ -29,7 +29,7 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
    ```
    You will see the output results in the folder `./output/`.
 
-### The Multi-site Dataset for Prostate MRI Segmentation
+#### The Multi-site Dataset for Prostate MRI Segmentation
 For more details and the downloading link of the orgarized dataset, please [find here](https://liuquande.github.io/SAML/).
 
 ### Questions
