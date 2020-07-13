@@ -39,6 +39,17 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
    ```
    You will see the output results in the folder `./output/`.
 
+### Citation
+If this repository is useful for your research, please cite:
+
+```
+@article{liu2020shape,
+  title={Shape-aware Meta-learning for Generalizing Prostate MRI Segmentation to Unseen Domains},
+  author={Liu, Quande and Dou, Qi and Heng, Pheng-Ann},
+  journal={International Conference on Medical Image Computing and Computer Assisted Intervention},
+  year={2020}
+}
+```
 
 ### Questions
 
