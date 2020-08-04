@@ -3,7 +3,7 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
 
 ### Introduction
 
-* The Tensorflow implementation for our MICCAI 2020 paper '[Shape-aware Meta-learning for Generalizing Prostate MRI Segmentation to Unseen Domains](https://github.com/liuquande/SAML)'. 
+* The Tensorflow implementation for our MICCAI 2020 paper '[Shape-aware Meta-learning for Generalizing Prostate MRI Segmentation to Unseen Domains](https://arxiv.org/pdf/2007.02035.pdf)'. 
 
 <p align="center">
   <img src="figure/saml.png"  width="650"/>
@@ -40,14 +40,15 @@ by [Quande Liu](https://github.com/liuquande), [Qi Dou](http://www.cse.cuhk.edu.
    You will see the output results in the folder `./output/`.
 
 ### Citation
-If the code or dataset is useful for your research, please consider citing:
+If this repository is useful for your research, please cite:
 
 ```
-@inproceedings{liu2020saml,
-	title={Shape-aware Meta-learning for Generalizing Prostate MRI Segmentation to Unseen Domains},
-	author={Liu, Quande and Dou, Qi and Heng, Pheng Ann},
-	booktitle={International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)},
-	year={2020}}
+@article{liu2020shape,
+  title={Shape-aware Meta-learning for Generalizing Prostate MRI Segmentation to Unseen Domains},
+  author={Liu, Quande and Dou, Qi and Heng, Pheng-Ann},
+  journal={International Conference on Medical Image Computing and Computer Assisted Intervention},
+  year={2020}
+}
 ```
 
 ### Questions
